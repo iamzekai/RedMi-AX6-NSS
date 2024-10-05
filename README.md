@@ -1,3 +1,13 @@
+
+20241005
+
+mod the conf file to adapt ax3600
+try boot test
+in ok then go forward to  del more app that you dont need.
+
+
+-------
+
 RedMi AX6 NSS Clean Firmware
 
 Based on the OpenWRT source code, it provides clean firmware with no third-party software or services.
